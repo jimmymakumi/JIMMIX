@@ -5,14 +5,14 @@ body {
     height: 100vh;
     margin: 0;
     font-family: 'Open Sans', sans-serif;
-    background: #222;
+    background: #e8dfdf;
     background-image: url('https://source.unsplash.com/1600x900/?landscape');
     font-size: 120%;
   }
   
   .card {
     background: #000000d0;
-    color: white;
+    color: rgb(206, 18, 18);
     padding: 2em;
     border-radius: 30px;
     width: 100%;
